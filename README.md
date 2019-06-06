@@ -12,3 +12,8 @@ Using data from Amazon we attempt to predict if online review variables such as 
 ![](Images/Features.png)
 
 ![](Images/Offers_SS.png)
+
+![](Images/features_SS.png)
+
+
+***Data Extraction***
