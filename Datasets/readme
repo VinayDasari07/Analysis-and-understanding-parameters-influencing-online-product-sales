@@ -1,0 +1,3 @@
+The dataset preprocessed after scraping is finaldatafirst.csv and 
+the dataset after performing backward elimination is finaldata.csv (Drop the columns from bank offers till last column)
+i.e the columns specified to drop were not helpful to improve the accuracy of the model
